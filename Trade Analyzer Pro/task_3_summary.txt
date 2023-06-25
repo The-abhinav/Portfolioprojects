@@ -1,0 +1,7 @@
+Calculating Top Winning/Losing Streaks and Appending Results in single txt file:
+
+* The code prompts the user to enter the value of n to calculate the top winning/losing streaks.
+* Multiple values of n can be input one after another.
+* The results for each n value are appended to the same file (combined_winning_losing.txt).
+* The streaks are grouped under the respective "Top n winning streaks" and "Top n losing streaks" sections in the file.
+* Entering -1 as the input for n stops the prompt and exits the loop.
